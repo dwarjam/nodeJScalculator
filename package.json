@@ -1,0 +1,21 @@
+{
+  "name": "nodejscalculator",
+  "version": "1.0.0",
+  "description": "calculator project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "calculator",
+    "nodejscalculator"
+  ],
+  "author": "mirjam tapu",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
